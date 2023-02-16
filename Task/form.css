@@ -1,0 +1,15 @@
+.box1 {
+  position: relative;
+}
+.box1 .right {
+  position: absolute;
+  top: 12px;
+  left: 82%;
+  color: green;
+}
+.box1 .wrong {
+  position: absolute;
+  top: 12px;
+  left: 82%;
+  color: red;
+}
